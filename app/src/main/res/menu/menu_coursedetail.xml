@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Delete Course"
+        android:orderInCategory="200"
+        android:id="@+id/deleteCourse"/>
+    <item android:title="Share"
+        android:orderInCategory="200"
+        android:id="@+id/shareCourse"/>
+    <item android:title="Set Alerts for Start and End Dates"
+        android:orderInCategory="200"
+        android:id="@+id/notifyCourse"/>
+</menu>

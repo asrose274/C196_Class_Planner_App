@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.196" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/drawable/ic_baseline_access_time_24.xml.xml" value="0.196" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.196" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout-land/activity_addedit_assessments.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout-land/activity_addedit_course.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout-land/activity_addedit_term.xml" value="0.1591710758377425" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout-land/activity_all_assessment.xml" value="0.31966490299823636" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout-land/assessment_list_item.xml" value="0.1591710758377425" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_add_assessment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_add_course.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_add_term.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_addedit_assessments.xml" value="0.2631578947368421" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_addedit_course.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_addedit_courses.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_addedit_term.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_addedit_terms.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_alert.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_all_assessment.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_all_courses.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_all_terms.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_assessments.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_courses.xml" value="0.36231884057971014" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_detail_assessment.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_detail_course.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_detail_term.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_detailed_assessment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_detailed_course.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_list_assessment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_list_courses.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_list_terms.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_terms.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/activity_test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/assessment_list_item.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/course_list_item.xml" value="0.35733695652173914" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/layout/term_list_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/menu/assessmentdetail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/menu/coursedetail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/menu/menu_allterms.xml" value="0.7705078125" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/menu/menu_assessmentdetail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/menu/menu_termslist.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/menu/termdetail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2975" />
+        <entry key="..\:/Users/Aaron/AndroidStudioProjects/AaronRoseC196/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1965" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aaronrosec196">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_baseline_access_time_24"
+        android:label="Term Scheduler"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AaronRoseC196">
+        <receiver
+            android:name=".UI.MyReceiver"
+            android:enabled="true"
+            android:exported="true"></receiver>
+
+        <activity
+            android:name=".UI.addedit_assessments"
+            android:exported="false"
+            android:label="Add/Edit Assessments"
+            android:parentActivityName=".UI.allAssessments" />
+        <activity
+            android:name=".UI.addedit_courses"
+            android:exported="false"
+            android:label="Add/Edit Courses"
+            android:parentActivityName=".UI.allCourses" />
+        <activity
+            android:name=".UI.addedit_terms"
+            android:exported="false"
+            android:label="Add/Edit Terms"
+            android:parentActivityName=".UI.allTerms" />
+        <activity
+            android:name=".UI.allTerms"
+            android:exported="false"
+            android:label="All Terms"
+            android:parentActivityName=".UI.MainActivity" />
+        <activity
+            android:name=".UI.allCourses"
+            android:exported="false"
+            android:label="All Courses"
+            android:parentActivityName=".UI.MainActivity" />
+        <activity
+            android:name=".UI.allAssessments"
+            android:exported="false"
+            android:label="All Assessments"
+            android:parentActivityName=".UI.MainActivity" />
+        <activity
+            android:name=".UI.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
